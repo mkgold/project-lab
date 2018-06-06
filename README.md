@@ -33,5 +33,7 @@ None of those things can happen without a plan. If you walk out those doors toda
 4. Find new resources
 5. Communicate your plan
 
+Session Leader: Lisa Rhody  
+Based on previous work by Lisa Rhody  
 
 [Let's get started!>>](1Ideas.md)
