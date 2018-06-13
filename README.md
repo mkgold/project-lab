@@ -34,6 +34,6 @@ None of those things can happen without a plan. If you walk out those doors toda
 5. Communicate your plan
 
 Session Leader: Lisa Rhody  
-Based on previous work by Lisa Rhody  
+Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 [Let's get started!>>](1Ideas.md)
