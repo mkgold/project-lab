@@ -14,7 +14,7 @@
  * Researchers working on related questions
 
 
- *Projects typically satisfy more than one audience's need. The key to idenitfying a well-defined audience is research and creating several narrow profiles*
+ *Projects typically satisfy more than one audience's need. The key to identifying a well-defined audience is research and creating several narrow profiles*
  
 ### Sample 1: 
 
