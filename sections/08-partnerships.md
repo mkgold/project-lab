@@ -1,3 +1,5 @@
+[<<< Previous](07-sustainability.md) | [Next >>>](09-finding-funds.md)
+
 # Effective Partnerships
 
 After brainstorming your project ideas and assessing your available resources, it is time to scope out potential partners to help fill in gaps and formalize relationships. 
@@ -70,6 +72,4 @@ Follow these steps when asking for a support letter and for specific types of as
 	* Provide a short project summary that includes the project goals, deliverables, and work plan from the grant proposal draft;
 	* Include a starter letter containing sample text that references that person’s or institution’s role and why they are supporting the project.
 
-
-[<<Back](7Sustainability.md)	.....	[Forward>>](9Findingfunds.md)
-
+[<<< Previous](07-sustainability.md) | [Next >>>](09-finding-funds.md)

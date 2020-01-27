@@ -1,3 +1,5 @@
+[<<< Previous](10-proposal.md) | [Next >>>](12-instructions.md)
+
 # Presentation Template
 
 **Name:** 
@@ -13,6 +15,4 @@
 
 **What additional support will you need as you take your next steps?**
 
-
-[<<Back](10Proposal.md)	.....	[Example>>](12Instructions.md)
-
+[<<< Previous](10-proposal.md) | [Next >>>](12-instructions.md)

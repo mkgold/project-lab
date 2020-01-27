@@ -1,3 +1,5 @@
+[<<< Previous](03-environment.md) | [Next >>>](05-outreach.md)
+
 # Resource Assessment
 
 The next step in our process is figuring out what resources you have available to you and what you still need in order to accomplish your project's objectives. 
@@ -8,8 +10,6 @@ The next step in our process is figuring out what resources you have available t
 3. human
 4. institution
 5. financial
-
-
 
 ## Data, Digital Assets, Collections
 Do you have the dataset you need to do your project? Finding, cleaning, storing, managing changes in, and sharing your data is an often overlooked but *extremely* important part of designing your project. Successfully finding a good dataset means that you should keep in mind: Is the dataset the appropriate size and complexity to help address your project's goals? Finding, using, or creating a good dataset is a core part of your project's long-term success. 
@@ -86,12 +86,4 @@ Looking back at the Audiences worksheet, review which of your audiences were inv
 * Have you applied for internal funding? Where would you look? 
 * Are there resources at your institution for hosting, data sharing, and/or preservation? 
 
-
-
-
-[<<Back](3Environment.md)	.....	[Audience>>](5Outreach.md)
-
-
-
-
-
+[<<< Previous](03-environment.md) | [Next >>>](05-outreach.md)

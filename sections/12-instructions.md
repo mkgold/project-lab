@@ -1,3 +1,5 @@
+[<<< Previous](11-presentation.md) | [Back to beginning >>>](../README.md)
+
 # Presentation
 
 ## **Name:** Lisa Rhody
@@ -19,21 +21,28 @@ My project is going to make every installation seamless. It will make all of you
 
 ## Activity
 * Delete my information above and use this as a template for your own presentation. 
-* You may want to consult this [Markdown Cheat Sheet by Adam Pritchard] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists) to help you format your slide better. 
+* You may want to consult this [Markdown Cheat Sheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists) to help you format your slide better. 
 
 ## When you are done:
-* save this file with a new name --> yourlastname.md
+* save this file with a new name ("yourlastname.md")
 * add this file to your repository 
 
-```git add yourlastname.md```
+```
+git add yourlastname.md
+```
 
-```git commit -m "my presentation file"```
+```
+git commit -m "my presentation file"
+```
 
 * If you have used an image (and you can) don't forget to add your image to the image folder and then add it to your repo: 
 
-```git add images/myfile.jpg```
+```
+git add images/myfile.jpg
+```
 
-```git commit -m "adding an image file"```
+```
+git commit -m "adding an image file"
+```
 
-
-
+[<<< Previous](11-presentation.md) | [Back to beginning >>>](../README.md)

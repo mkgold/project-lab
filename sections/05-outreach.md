@@ -1,7 +1,8 @@
+[<<< Previous](04-resources.md) | [Next >>>](06-workplan.md)
+
 # Outreach
 
 Outreach can take many different forms, from presenting your research at conferences and through peer-reviewed scholarly publications, but also through blog posts, Twitter conversations, forums, and/or press releases. The key to a good outreach plan is to being earlier than you think is necessary, and give your work a public presence (via Tumblr, Twitter, website, etc). You can use your outreach contacts to ask for feedback and input as well as share challenges and difficult decisions. 
-
 
 * Will you create a website for your project? 
 * How will you share your work? 
@@ -13,17 +14,10 @@ Outreach can take many different forms, from presenting your research at confere
 * What information could you share about your project at its earliest stages? 
 * Does your project have a title? 
 
-
 ## Activity: 
 
 1. Is there a project that you know of that seems to have garnered lots of attention either from a broader public or from your own field? What made that project stand out? How did they share their work? 
 
-
-
-
-
 2. Consider the early, middle, and final stages of your project. What kinds of outreach activities could you fit in at each stage? What audiences would you try to reach? Would they change over time? 
 
-
-
-[<<Back](4Environment.md)	.....	[Forward>>](6Workplan.md)
+[<<< Previous](04-resources.md) | [Next >>>](06-workplan.md)

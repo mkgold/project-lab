@@ -11,6 +11,7 @@ Most workshops teach you something: a skill, a method, a practice. But what are 
 None of those things can happen without a plan. If you walk out those doors today without a plan for what your next steps will be, it's unlikely that you'll be able to make much progress. There is no possible way for us to teach you everything you need to know, and there's no way for you to learn anything well enough in one week that you can walk out those doors and do everything you want to do. 
 
 ## Learning objectives
+
 In this workshop, you will learn the following skills:
 - Identify existing resources (and maybe even a few you haven't thought of yet)
 - Identify your needs
@@ -18,21 +19,21 @@ In this workshop, you will learn the following skills:
 - Find new resources
 - Communicate your plan
 
-[Let's get started!>>](1Ideas.md)
+[Get started >>>](sections/01-ideas.md)
 
 -----
 
-[Begin with the end in mind](1Ideas.md)  
-[Identify key audiences, constituencies, and collaborators](2Audience.md)  
-[Environmental scan](3Environment.md)  
-[Resource assessment](4Resources.md)  
-[Outreach](5Outreach.md)  
-[Work Plans: Scoping and Scheduling](6Workplan.md)  
-[Sustainability and Data Management](7Sustainability.md)  
-[Effective Partnerships](8Partnerships.md)  
-[Finding Funding](9Findingfunds.md)  
-[Draft Project Proposal](10Proposal.md)  
-[Presentation Slide](11Presentation.md)
+[Begin with the end in mind](sections/01-ideas.md)  
+[Identify key audiences, constituencies, and collaborators](sections/02-audience.md)  
+[Environmental scan](sections/03-environment.md)  
+[Resource assessment](sections/04-resources.md)  
+[Outreach](sections/05-outreach.md)  
+[Work Plans: Scoping and Scheduling](sections/06-workplan.md)  
+[Sustainability and Data Management](sections/07-sustainability.md)  
+[Effective Partnerships](sections/08-partnerships.md)  
+[Finding Funding](sections/09-finding-funds.md)  
+[Draft Project Proposal](sections/10-proposal.md)  
+[Presentation Slide](sections/11-presentation.md)
 
 -----
 

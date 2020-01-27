@@ -1,4 +1,6 @@
-# Identifying Audiences, Constituencies, & Collaborators
+[<<< Previous](01-ideas.md) | [Next >>>](03-environment.md)
+
+# Identifying Audiences, Constituencies, and Collaborators
 
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 
@@ -47,7 +49,7 @@ Example of a "stakeholder":
 
  2. Resources/Relationship: 
 
- 3. Limitations/Concessions: \
+ 3. Limitations/Concessions: 
 
 
 ### Audience 2: 
@@ -85,7 +87,4 @@ Example of a "stakeholder":
 
 3. Limitations/Concessions: 
 
-
-
-[<<Back](1Ideas.md)	.....	[Forward>>](3Environment.md)
-
+[<<< Previous](01-ideas.md) | [Next >>>](03-environment.md)

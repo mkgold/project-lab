@@ -1,3 +1,5 @@
+[<<< Previous](08-partnerships.md) | [Next >>>](10-proposal.md)
+
 # Finding Funding
 
 Now that you have started to form:
@@ -32,6 +34,7 @@ Now that you have started to form:
 6. Jenny Furlong Director of the Office of Career Services will be here tomorrow, and she is an excellent resource for those interested in external fellowships. 
 
 ## Activity
+
 Find one or two grant opportunites in your subject area. Consider also looking for fellowship opportunities. 
 
-[<<Back](8Partnerships.md)	.....	[Forward>>](10Proposal.md)
+[<<< Previous](08-partnerships.md) | [Next >>>](10-proposal.md)
