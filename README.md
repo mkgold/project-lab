@@ -19,7 +19,7 @@ In this workshop, you will learn the following skills:
 - Find new resources
 - Communicate your plan
 
-[Let's get started!>>](sections/01-ideas.md)
+[Get started >>>](sections/01-ideas.md)
 
 -----
 
