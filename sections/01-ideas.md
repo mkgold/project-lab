@@ -15,7 +15,7 @@ For any digital project, there are parts of it that are absolutely necessary, an
  * Meet an institutional need? 
  * Put an existing resource to new use?  
  
- * Think about the overall scope of your project. Divide it into two phases. What aspects of your ideas could potentially be postponded to a Phase 2 if needed? 
+ * Think about the overall scope of your project. Divide it into two phases. What aspects of your ideas could potentially be postponed to a Phase 2 if needed? 
 
 
 [<<< Previous](../README.md) | [Next >>>](02-audience.md)
