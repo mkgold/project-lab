@@ -8,12 +8,14 @@ For any digital project, there are parts of it that are absolutely necessary, an
 
 ## Activity
 
-* Think about the overall scope off our project. Divide it into two phases. What aspects of your ideas could potentially be postponded to a Phase 2 if needed? 
 
 * Now, Describe your project in 2-3 sentences to a non-expert audience the purpose of your project. 
 
  * Does it solve a problem? 
  * Meet an institutional need? 
  * Put an existing resource to new use?  
+ 
+ * Think about the overall scope of our project. Divide it into two phases. What aspects of your ideas could potentially be postponded to a Phase 2 if needed? 
+
 
 [<<< Previous](../README.md) | [Next >>>](02-audience.md)
