@@ -1,27 +1,16 @@
 [<<< Previous](../README.md) | [Next >>>](02-audience.md)
 
-# Begin by Thinking About the End
+# Minimum Viable Product (MVP)
 
-## What does "done" look like? 
+## What would an MVP look like? 
 
-Most digital projects come to an end at some point, in one way or another. We either simply stop working on them, or we forget about them, or we move on to something else. Few digital projects have an end "form" in the way that we think of a monograph. We rarely think of digital scholarship in its "done" form, but sooner or later even if they're not "finished"—so to speak—at some point, these projects end. 
-
-Done can take many different shapes: 
-
-* it can morph into something new;
-* it can be retired;
-* it can be archived in a repository;
-* it can be saved on some form of storage media;
-* it can run out of funding; 
-* and sometimes **you** are done with it!
-
-So it's helpful to think about what you want "done" to look like before you begin, because then you always have a sense of what will make a satisfactory ending to the work you're about to embark on. 
+For any digital project, there are parts of it that are absolutely necessary, and other parts that would be nice to have. Thinking about your overall project, could you divide it up into phases, where Phase 1 contains the minimum functionality that would have to be included, and other aspects of the project could be part of a Phase 2 that is completed at a later date?
 
 ## Activity
 
-* Imagine what your project is like when it's over. Imagine what it means to you to set it down and walk away. What will you do with it? How will you know if it succeded? Who was the last person to care about it? Why? 
+* Think about the overall scope off our project. Divide it into two phases. What aspects of your ideas could potentially be postponded to a Phase 2 if needed? 
 
-* Now, Describe your 2-3 sentences to a non-expert audience the purpose of your project. 
+* Now, Describe your project in 2-3 sentences to a non-expert audience the purpose of your project. 
 
  * Does it solve a problem? 
  * Meet an institutional need? 
