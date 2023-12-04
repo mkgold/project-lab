@@ -2,89 +2,36 @@
 
 # Identifying Audiences, Constituencies, and Collaborators
 
+ The "general public" is too general an audience. the more specific your audience is the more likely you are to meet their needs. 
+
  * Who will participate in, use, and/or benefit from the project? 
- * Is there a specific group already asking for this new resource? Who? 
- * The "general public" is too general an audience. the more specific your audience is the more likely you are to meet their needs. 
+ * Is there a specific group already asking for this new project? Who? 
  * Is there anything that my audience can bring to my project?
 
-## Your project **always** has an audience. 
+# Use Cases
 
- * *You* are an audience. 
- * Your dissertation advisor
- * Your dissertation committee
- * Researchers interested in your subject area
- * Researchers working on related questions
+* Use cases provide a way to imagine specific types of people who might benefit from interacting with your project. Describing them in a few sentences will help you imagine how your project might be used by a potential audience.
 
+For each use case:
 
- *Projects typically satisfy more than one audience's need. The key to identifying a well-defined audience is research and creating several narrow profiles*
- 
-### Sample 1: 
+* Provide a fake name
+* Provide a role/institution/profession
+* Describe how or why the person would come to interact with your project
+* Describe how the project will benefit them
 
-1. Needs/Interest: Faculty who teach undergraduate linguistics classes are looking for an engaging way to teach fundamental linguistics concepts through guided practice and repetition. 
-2. Resources: They have access to chrome books, laptops, and tablets in the classroom with limited wifi. They are unable to update software frequently, but they can use web applications. 
-3. Limitations: This audience needs clear and specific documentation and has a low threshold for errors. 
+At a later point in time, or for a grant proposal, you can write up your use cases into prose. For now, just put together bullet points for three potential use cases.
 
-### Sample 2: 
+## Sample Use Case (paragraph)
 
-1. Needs/Interest: My dissertation committee is interested in hearing how my model of financial data offers a new approach to predicting corporate fraud. 
-2. Resources/Relationship: The committee is familiar with some of the models that already exist. They have deep familiarity with the qualitative indicators for corporate fraud. They can connect my data and my research to a wider community of scholars who have the datasets that I need to finish my work. My advisor wants me to succeed. 
-3. Limitations: My committee is skeptical about technology and feels uncertain about how they will evaluate my work. They have expressed concern about not knowing how to "check" if the model is accurate. 
+(text taken from a successful grant for the [Commons In A Box OpenLab](https://commonsinabox.org/) proposal submitted to the NEH:
 
-If you are working on a project that is institutionally based (such as creating a platform, creating a resource, or building a teaching tool), you may have institutaional partners who have a stake in your project's success.  It's a good idea to identify these folks and consider their interests and needs as well. 
+*	Every year, the English department organizes a Literary Arts Festival designed to engage the entire college community. This year it hopes to draw in local artists, writers, and other members of the local community. Department members set up a project space where faculty, staff, and students can discuss work by the featured writers and post their contributions to the college’s writing competition. Selected guest artists from the community join the conversation online, commenting on student entries in the competition, and fostering connections between what happens on campus and the intellectual and artistic activity that surrounds it.
 
-Possible stakeholders include: your library, colleagues, IT division, academic program, a center, or institute who shares your mission and/or goals. 
+* Faculty who teach 80 separate first-year writing courses at a community college want to bring their sections into dialogue with one another around common readings. Each one uses the PressForward plugin to capture content from RSS feeds, APIs, and institutional repositories related to weekly discussion topics. Using an internal nomination and commenting feature to collectively evaluate and select featured weekly readings, students and faculty share selections with peers, creating a fluid exchange of engaging, open-source content and prompting cross-section dialogue. By following the RSS feeds of other sections, students create blog entries that foster wider audiences for their own writing, prompting cross-collaboration and discussion.
 
-Example of a "stakeholder":
+* Students in a class on nineteenth-century American literature use CBOX features developed for the Digital Thoreau project at SUNY Geneseo to collaboratively annotate works by Harriet Tubman, Walt Whitman, and William Wells Brown. As they share their research and interpretations, they adjust comment privacy settings depending on whether they want their comments to be fully public or seen only by class members. These annotated texts are used by multiple professors in succeeding terms, building a collective repository of student work over time and connecting it to similar work at other institutions.  
 
-### Sample: 
-1. Needs: The New Media Lab has student fellows who develop digital projects. They have expressed interest in finding a data management tool that allows students to create a plan for how to handle various types of data files. 
-2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
-3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. 
+* Rather than submit term papers only to their faculty members, students use the Social Paper tool (funded by a 2014 NEH ODH Start-Up Grant) to share their work privately with other students in the class. After receiving feedback from their peers, students publish their work publicly on their own digital portfolios and on their course websites. At the end of the semester, faculty and students use the Anthologize tool (created during a 2010 NEH ODH Summer Institute) to produce and share eBook versions of their collected essays.
 
-## Activity: Your Turn
-
-### Audience 1: 
-
- 1. Needs/Interest: 
-
- 2. Resources/Relationship: 
-
- 3. Limitations/Concessions: 
-
-
-### Audience 2: 
-
- 1. Needs/Interest: 
-
- 2. Resources/Relationship: 
-
- 3. Limitations/Concessions: 
-
-
-### Audience 3: 
-
- 1. Needs/Interest: 
-
- 2. Resources/Relationship: 
-
- 3. Limitations/Concessions: 
-
-
-### Audience 4: 
-
- 1. Needs/Interest: 
-
- 2. Resources/Relationship: 
-
- 3. Limitations/Concessions: 
-
-
-### Internal Stakeholder: 
-
-1. Needs/Interest: 
-
-2. Resources/Relationship: 
-
-3. Limitations/Concessions: 
 
 [<<< Previous](01-ideas.md) | [Next >>>](03-environment.md)
