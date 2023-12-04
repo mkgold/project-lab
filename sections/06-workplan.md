@@ -24,8 +24,10 @@ What follows are several possible ways to organize your project's work plan. Pro
 ## Activity
 Using the outline below or a combination or variation of the two, begin to map out the activities that need to happen (remember to use the worksheets you have already created) in order to complete your project. You may wish to start at the end with your description of the ideal "end" and work backwards. 
 
-##Major Deliverables: 
+## Major Deliverables: 
+
 **Project plans that foreground the "deliverables" of the project keep the focus on what will be accomplished.**
+
 * Deliverable 1:
   * Component
   		* Staff
