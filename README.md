@@ -30,8 +30,9 @@ In this workshop, you will learn the following skills:
 
 -----
 
-Session Leader: Lisa Rhody  
-Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
+Workshop Leader: Matthew K. Gold
+
+Based on the Digital Research Institute Curriculum, itself based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
