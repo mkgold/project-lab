@@ -21,7 +21,7 @@ For each use case:
 
 At a later point in time, or for a grant proposal, you can write up your use cases into prose. For now, just put together bullet points for three potential use cases.
 
-## Sample Use Case (paragraph)
+## Sample Use Cases 
 
 (text taken from a successful grant for the [Commons In A Box OpenLab](https://commonsinabox.org/) proposal submitted to the NEH):
 
