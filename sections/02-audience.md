@@ -23,7 +23,7 @@ At a later point in time, or for a grant proposal, you can write up your use cas
 
 ## Sample Use Case (paragraph)
 
-(text taken from a successful grant for the [Commons In A Box OpenLab](https://commonsinabox.org/) proposal submitted to the NEH:
+(text taken from a successful grant for the [Commons In A Box OpenLab](https://commonsinabox.org/) proposal submitted to the NEH):
 
 *	Every year, the English department organizes a Literary Arts Festival designed to engage the entire college community. This year it hopes to draw in local artists, writers, and other members of the local community. Department members set up a project space where faculty, staff, and students can discuss work by the featured writers and post their contributions to the college’s writing competition. Selected guest artists from the community join the conversation online, commenting on student entries in the competition, and fostering connections between what happens on campus and the intellectual and artistic activity that surrounds it.
 
