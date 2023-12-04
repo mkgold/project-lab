@@ -47,29 +47,5 @@ Once you know where you need help, start thinking about who you know who might h
 * Not all collaborations work out as planned, even with the best of intentions.
 * If there is a major breakdown in communications, or if relationships deteriorate, you may need to break apart partnerships.
 
-## Asking for letters of support
-
-When preparing a proposal, you will need mentors, collaborators, or other interested parties to write a strong letter of support for your project that will help your proposal stand out to the reviewers. Some funders want letters from all project participants. 
-
-It is important to respect people’s time when asking them for a letter by showing that you’ve done your research and that you have some grant materials to share with them. Good letters demonstrate some knowledge of the project and recognition of its impact if funded. 
-
-Follow these steps when asking for a support letter and for specific types of assistance during the life of the grant, and you should receive a good letter in return.
-
-* One month before grant deadline, begin brainstorming candidates for letters of support and note which collaborators are required to submit letters of commitment and support. 
-
-* Start asking supporters at least two weeks in advance of grant deadline, because they will also have deadlines and other work competing for their work hours. You may find some folks are on leave at the time you inquire, be sure to have back-ups on your list. 
-
-* Email potential supporters, collaborators:
-
-	* State why, specifically, you are asking Person A for support;
-	* Be specific about what you are asking Person A to do over the scope of the grant, if anything, such as participate in 3 meetings, 2 phone calls over 18 months; or  agree to review the project and provide feedback one month before official launch; 
-	* Provide any information about compensation, especially when asking someone to participate (ie, there will be a modest honorarium to recognize the time you give to this project of $xxx);
-	8 Tell supporters what exactly you need to complete the grant application, in what format, and by what date (ie, a 2-page CV in PDF and letter of support on letterhead by next Friday).
-
-
-* Attach materials that will be helpful for them when writing the letter.
-
-	* Provide a short project summary that includes the project goals, deliverables, and work plan from the grant proposal draft;
-	* Include a starter letter containing sample text that references that person’s or institution’s role and why they are supporting the project.
 
 [<<< Previous](07-sustainability.md) | [Next >>>](09-finding-funds.md)
