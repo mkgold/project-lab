@@ -4,7 +4,7 @@
 
 ## Project Summary
 
- * Describe your project in 2-3 sentences to a non-expert audience the purpose of your project. What are its central goals?
+ * Describe your project and its purpose in 2-3 sentences to a non-expert audience. What are its central goals?
 
 ## What would an MVP (Minimal Viable Product) look like? 
 
